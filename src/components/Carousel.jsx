@@ -4,7 +4,7 @@ import mealPrepImg from "../utils/images/meal-prep-ideas-846x846.jpg";
 import peachSalsaImg from "../utils/images/peach-salsa-1-846x846.jpg";
 import BroccoliCheeseSoup from "../utils/images/bro.jpg";
 import CrunchwrapSupreme from "../utils/images/crunch.jpg";
-import howToGrillCorn from "../utils/images/corn.jpg";
+import howToGrillCorn from "../utils/images/Corn.jpg";
 
 const carouselItems = [
   {
