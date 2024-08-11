@@ -4,7 +4,7 @@ import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <div className="w-full bg-[#f8f8f8] py-16 px-12 md:flex md:justify-normal relative">
+    <div className="w-full bg-[#f8f8f8] py-16 px-12 md:flex md:justify-evenly relative">
       <div className="flex justify-center mb-8 md:mb-0">
         <img src={foodTruck} alt="food truck" className="w-[25%]" />
       </div>
