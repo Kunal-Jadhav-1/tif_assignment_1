@@ -4,7 +4,7 @@ import mealPrepImg from "../utils/images/meal-prep-ideas-846x846.jpg";
 import peachSalsaImg from "../utils/images/peach-salsa-1-846x846.jpg";
 import BroccoliCheeseSoup from "../utils/images/bro.jpg";
 import CrunchwrapSupreme from "../utils/images/crunch.jpg";
-import HowToGrillCorn from "../utils/images/corn.jpg";
+import howToGrillCorn from "../utils/images/corn.jpg";
 
 const carouselItems = [
   {
@@ -26,7 +26,7 @@ const carouselItems = [
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
   },
   {
-    imgSrc: HowToGrillCorn,
+    imgSrc: howToGrillCorn,
     title: "How To Grill Corn",
     description:
       "PLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley....",
